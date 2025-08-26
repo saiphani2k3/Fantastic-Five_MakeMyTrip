@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Suite">
+	<listeners>
+		<listener class-name="com.MakeMyTrip.reRun.RetryListener"></listener>
+	</listeners>
+	<test name="ChromeTest">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.MakeMyTrip.TestRunner.TestRunner" />
+		</classes>
+	</test>
+</suite>
