@@ -17,7 +17,6 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
     features = {"src/test/resources/features"},  // Path to feature files
     glue = {"com.MakeMyTrip.StepDefinitions", "com.MakeMyTrip.Hooks"},  // Step definitions and hooks
-    //tags = "@Sanity or @Feildlevel or @LoginFeature or @DataExport or @GlossySprays or @Regression",  // Tags to filter scenarios
     plugin = {
         "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",  // Allure report plugin
         "pretty",  // Console output formatting

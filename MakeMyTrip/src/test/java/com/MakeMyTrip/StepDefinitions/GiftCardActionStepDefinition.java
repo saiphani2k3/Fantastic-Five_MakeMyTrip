@@ -20,7 +20,8 @@ public class GiftCardActionStepDefinition {
 	
 	@Given("User is the home page")
 	public void user_is_the_home_page() throws IOException {
-		driver = Hooks.driver;
+		
+		driver=Hooks.driver;
         if (driver == null) {
             throw new RuntimeException("Driver is not initialized. Check Hooks setup.");
         }

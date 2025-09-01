@@ -19,6 +19,7 @@ public class HotelAdultCountStepDefinition {
 	
 	@Given("User is in Homepage")
 	public void when_user_is_in_homepage() {
+		
 		driver = Hooks.driver;
         if (driver == null) {
             throw new RuntimeException("Driver is not initialized. Check Hooks setup.");
@@ -29,7 +30,7 @@ public class HotelAdultCountStepDefinition {
 	@When("Popup appears")
 	public void pop_up_appears() {
 		
-		count.closePopup();
+		count.ClosePopUp();
 	}
 
 	@Then("Navigate to the Hotels section")

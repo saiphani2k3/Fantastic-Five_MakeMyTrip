@@ -14,14 +14,15 @@ import io.cucumber.java.en.When;
 
 public class AccountLoginStepDefinition {
 	
-	private WebDriver driver;
-	private AccountLogin login;
-	private static final Logger logger=LogManager.getLogger(AccountLoginStepDefinition.class);
+	WebDriver driver;
+	AccountLogin login;
+	final Logger logger=LogManager.getLogger(AccountLoginStepDefinition.class);
 
 	@When("The HomePage popUp appears")
 	public void the_home_page_pop_up_appears() throws IOException {
-		driver = Hooks.driver;
-        if (driver == null) {
+		
+		driver=Hooks.driver;
+		if (driver == null) {
             throw new RuntimeException("Driver is not initialized. Check Hooks setup.");
         }
         login=new AccountLogin(driver);

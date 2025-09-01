@@ -11,6 +11,7 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.testng.Reporter;
 
 import com.MakeMyTrip.Utilities.ConfigReader;
 import com.MakeMyTrip.Utilities.DriverSetup;
@@ -27,13 +28,13 @@ public class Hooks {
     public static WebDriver driver;
 
     // Driver setup utility
-    DriverSetup setup;
+    public static DriverSetup setup;
 
     // Browser name to be used for test execution
-    public String browser;
+    String browser;
 
     // Logger for logging test execution details
-    public Logger logger;
+    Logger logger;
     
     /**
      * This method runs before each scenario.
@@ -46,7 +47,10 @@ public class Hooks {
         logger = LogManager.getLogger(this.getClass());
 
         // Fetch browser name from TestNG XML configuration
-        browser=ConfigReader.getProperty("browser");
+        browser = Reporter.getCurrentTestResult()
+                		  .getTestContext()
+                		  .getCurrentXmlTest()
+                		  .getParameter("browser");
 
         setup = new DriverSetup();
 

@@ -5,7 +5,6 @@ import java.io.IOException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import org.testng.Assert;
 
 import com.MakeMyTrip.Hooks.Hooks;
 import com.MakeMyTrip.pages.VisaProcess;
@@ -14,7 +13,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class VisaProcessStepDefinition {
+public class VisaProcessStepDefinition{
 	
 	private WebDriver driver;
 	private VisaProcess visa;
@@ -30,18 +29,12 @@ public class VisaProcessStepDefinition {
         visa=new VisaProcess(driver);
 	}
 
-	@When("the Popup is visible")
-	public void the_popup_is_visible() {
-	  Assert.assertTrue(visa.popUpDisplayed(),"PopUp is visible");
+	@When("the Popup is visible,Close the popup")
+	public void the_popup_is_visible_close_the_popup() {
+		visa.ClosePopUp();
 	}
 
-	@Then("close the popUp to proceed")
-	public void close_the_pop_up_to_proceed() {
-	    
-		visa.closePopup();
-	}
-
-	@When("User navigates to Visa Page")
+	@Then("User navigates to Visa Page")
 	public void user_navigates_to_visa_page() {
 	    
 		visa.Visa();

@@ -1,0 +1,301 @@
+11:34:05.774 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:34:16.421 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+11:34:21.552 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:37:08.470 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:37:21.525 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+15:37:28.448 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+10:48:46.173 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:48:56.115 [TestNG-tests-1] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+10:49:02.715 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+10:49:29.561 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:49:39.486 [TestNG-tests-1] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+10:49:46.038 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+10:50:32.926 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:50:33.116 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:50:58.394 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+10:51:12.695 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:51:12.879 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:57:45.073 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:57:55.446 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:57:55.472 [TestNG-tests-1] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+10:58:03.840 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+10:58:17.410 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:58:26.980 [TestNG-tests-2] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+10:58:32.573 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:02:05.217 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:02:05.217 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:02:30.794 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:02:41.295 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:02:41.306 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:03:05.241 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:05:53.405 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:05:53.405 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:06:21.782 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:06:32.127 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:06:32.177 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:07:00.848 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:07:10.626 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:07:32.435 [TestNG-tests-2] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+11:07:40.976 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:08:27.052 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:08:27.060 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:09:46.947 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:09:55.141 [TestNG-tests-2] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+11:10:02.200 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:10:16.931 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:10:16.939 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:10:39.354 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:10:48.955 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:10:48.973 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:11:11.782 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:11:21.659 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:11:23.759 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:11:47.843 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:11:57.338 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:11:59.585 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:12:26.075 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:12:37.307 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:12:37.575 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:13:06.175 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:13:16.915 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:13:17.011 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:13:41.386 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:13:56.023 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:13:56.031 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:14:22.169 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:14:32.685 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:14:32.748 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:15:40.508 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:15:40.508 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:16:06.966 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:16:19.378 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:16:19.398 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:16:44.367 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:16:54.234 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:16:54.582 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:17:18.385 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:17:31.450 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:17:31.457 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:27:42.006 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:27:42.047 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:01:22.252 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:01:24.321 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:01:45.595 [TestNG-tests-2] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+12:02:51.777 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:02:52.191 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:03:17.841 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+12:03:28.052 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:03:29.645 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:03:38.536 [TestNG-tests-2] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+12:03:39.324 [TestNG-tests-1] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+12:03:46.760 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+12:03:57.400 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:03:57.501 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:04:35.217 [TestNG-tests-1] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+12:04:35.269 [TestNG-tests-2] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+12:05:10.777 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+12:05:30.768 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:05:31.071 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:05:41.748 [TestNG-tests-1] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+12:06:22.578 [TestNG-tests-2] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:06:23.454 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+12:06:34.278 [TestNG-tests-1] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+12:06:37.790 [TestNG-tests-2] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+15:50:21.006 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:50:34.926 [main] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+15:50:45.054 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:50:56.147 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:51:19.178 [main] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+15:51:30.425 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:51:39.445 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:51:52.940 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+15:51:58.688 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:52:07.266 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:52:15.294 [main] INFO  com.MakeMyTrip.StepDefinitions.HotelAdultCountStepDefinition - Count of max adults retrieved.
+15:52:23.499 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:52:33.658 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:52:49.682 [main] INFO  com.MakeMyTrip.StepDefinitions.InsurancePageStepDefinition - Plan details and provider details retrieved.
+15:52:59.277 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:53:09.122 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:56:16.213 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:56:29.698 [main] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+15:56:43.318 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:56:54.953 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:57:33.186 [main] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+15:58:12.433 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:58:21.523 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:58:34.558 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+15:59:10.896 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+15:59:19.565 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+15:59:27.944 [main] INFO  com.MakeMyTrip.StepDefinitions.HotelAdultCountStepDefinition - Count of max adults retrieved.
+16:00:09.831 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+16:00:20.474 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+16:00:41.300 [main] INFO  com.MakeMyTrip.StepDefinitions.InsurancePageStepDefinition - Plan details and provider details retrieved.
+16:01:17.548 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+16:01:29.188 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+16:05:39.070 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:06:26.827 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:06:38.222 [main] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+22:06:47.756 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:06:56.465 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:07:22.486 [main] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+22:07:33.213 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:07:41.613 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:07:53.024 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+22:08:00.425 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:08:09.021 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:08:16.507 [main] INFO  com.MakeMyTrip.StepDefinitions.HotelAdultCountStepDefinition - Count of max adults retrieved.
+22:08:24.068 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:08:36.001 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:08:53.079 [main] INFO  com.MakeMyTrip.StepDefinitions.InsurancePageStepDefinition - Plan details and provider details retrieved.
+22:09:03.220 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:09:11.527 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:15:08.836 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:17:56.631 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:18:11.367 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:19:38.493 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:19:39.782 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:25:02.318 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:27:17.615 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:27:41.616 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:27:50.516 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:28:16.231 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:30:37.654 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:31:08.434 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:31:19.282 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:31:43.469 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:34:50.690 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:35:23.738 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:35:34.996 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:35:58.797 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:42:38.287 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:43:10.771 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:44:59.985 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:45:27.880 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:45:37.959 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:46:03.318 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:47:02.753 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:57:09.674 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:57:39.853 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:00:19.002 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:00:44.965 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:00:54.996 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:01:18.525 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:02:54.204 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+21:56:17.368 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+21:56:56.929 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:01:39.003 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:03:37.012 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:06:23.869 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:09:42.341 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:24:15.664 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:33:12.944 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:50:24.362 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:54:09.406 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+22:54:29.011 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+22:55:19.019 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:03:42.208 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:04:45.959 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:05:40.474 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:05:46.578 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:06:03.673 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:06:49.185 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:08:56.585 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:11:42.505 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:11:53.408 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+23:12:38.986 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:12:46.294 [main] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+23:13:06.350 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:13:16.091 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:13:33.481 [main] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+23:13:47.706 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:13:55.424 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:14:04.950 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+23:14:10.845 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:14:19.222 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:14:23.706 [main] INFO  com.MakeMyTrip.StepDefinitions.HotelAdultCountStepDefinition - Count of max adults retrieved.
+23:14:30.361 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:14:37.838 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:14:49.649 [main] INFO  com.MakeMyTrip.StepDefinitions.InsurancePageStepDefinition - Plan details and provider details retrieved.
+23:14:57.688 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:15:04.922 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:15:18.484 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+23:15:26.546 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:18:38.745 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:18:55.357 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+23:19:02.216 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:20:54.673 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:21:21.739 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+23:21:54.098 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:24:31.044 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:24:44.561 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+23:24:51.314 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:25:00.001 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:25:16.227 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+23:25:22.196 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+23:26:14.453 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+23:26:34.380 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+23:26:42.744 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+09:59:10.483 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+09:59:22.859 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+09:59:29.246 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+10:00:28.040 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+10:00:45.652 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+11:20:09.511 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:20:17.477 [main] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+11:20:25.450 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:20:33.084 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:20:54.760 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:21:01.862 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:21:33.792 [main] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+11:21:42.004 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:21:49.079 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:21:58.145 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+11:22:03.911 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:22:11.273 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:22:16.450 [main] INFO  com.MakeMyTrip.StepDefinitions.HotelAdultCountStepDefinition - Count of max adults retrieved.
+11:22:22.653 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:22:29.901 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:22:44.095 [main] INFO  com.MakeMyTrip.StepDefinitions.InsurancePageStepDefinition - Plan details and provider details retrieved.
+11:22:51.733 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:22:58.834 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:23:09.107 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+11:23:15.377 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:25:47.942 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:25:54.968 [main] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+11:26:01.551 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:26:08.542 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:26:31.387 [main] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+11:26:39.223 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:26:47.688 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:26:57.979 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+11:27:03.875 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:27:10.759 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:27:16.586 [main] INFO  com.MakeMyTrip.StepDefinitions.HotelAdultCountStepDefinition - Count of max adults retrieved.
+11:27:22.371 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:27:29.440 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:27:42.319 [main] INFO  com.MakeMyTrip.StepDefinitions.InsurancePageStepDefinition - Plan details and provider details retrieved.
+11:27:49.562 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:27:56.575 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:28:09.923 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+11:28:17.269 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:31:32.067 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:31:40.283 [main] INFO  com.MakeMyTrip.StepDefinitions.AccountLoginStepDefinition - Login failed
+11:31:47.265 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:31:54.571 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:33:19.958 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:33:26.662 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:33:55.703 [main] INFO  com.MakeMyTrip.StepDefinitions.CabSearchStepDefinition - The lowest costing cab value retrieved.
+11:34:03.750 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:34:10.833 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:34:19.909 [main] INFO  com.MakeMyTrip.StepDefinitions.GiftCardActionStepDefinition - Error occured.
+11:34:25.468 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:34:32.236 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:34:37.621 [main] INFO  com.MakeMyTrip.StepDefinitions.HotelAdultCountStepDefinition - Count of max adults retrieved.
+11:34:43.614 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:34:50.465 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:35:04.635 [main] INFO  com.MakeMyTrip.StepDefinitions.InsurancePageStepDefinition - Plan details and provider details retrieved.
+11:35:12.452 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
+11:35:19.309 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is initialized successfully.
+11:35:30.472 [main] INFO  com.MakeMyTrip.StepDefinitions.VisaProcessStepDefinition - Visa steps retrieved.
+11:35:37.178 [main] INFO  com.MakeMyTrip.Hooks.Hooks - Driver is closed successfully.
